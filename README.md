@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruashish
+- 👋 Hi, I’m ashish
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Web Deveplopment
